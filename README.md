@@ -2,14 +2,12 @@
   <br>Hi, I'm Mert Yücesoy <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
 </h2>
  <img src="https://media3.giphy.com/media/xuXzcHMkuwvf2/giphy.gif?cid=790b76110a0810c581afb8cf92c552027625022f120b985d&rid=giphy.gif" width="300">
-<br>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - 👀 I’m interested in Web Development
 - 🌱 Learning all about Open Source
 - 🐙 Always ready to collaborate for Dev Experiments
-<br>
 <h2 align="left">:space_invader: Technologies and Tools I use:</h2>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
