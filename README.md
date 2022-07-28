@@ -5,9 +5,11 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- 👀 I’m interested in Web Development
-- 🌱 Learning all about Open Source
-- 🐙 Always ready to collaborate for Dev Experiments
+  👀 I’m interested in Web Development
+  <br>
+  🌱 Learning all about Open Source
+  <br>
+  🐙 Always ready to collaborate for Dev Experiments
 <h2 align="left">:space_invader: Technologies and Tools I use:</h2>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
