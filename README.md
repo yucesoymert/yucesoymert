@@ -3,14 +3,14 @@
 </h2>
  <img src="https://media3.giphy.com/media/xuXzcHMkuwvf2/giphy.gif?cid=790b76110a0810c581afb8cf92c552027625022f120b985d&rid=giphy.gif" width="300">
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<h2 align="left">👨🏼‍💻 About me:</h2>
 
   👀 I’m interested in Web Development
   <br>
   🌱 Learning all about Open Source
   <br>
   🐙 Always ready to collaborate for Dev Experiments
-<h2 align="left">:space_invader: Technologies and Tools I use:</h2>
+<h2 align="left">:space_invader: Tech stack:</h2>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
