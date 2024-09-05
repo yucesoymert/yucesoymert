@@ -19,7 +19,7 @@
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> </a>
   <a href="https://nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://angular.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/> </a>
+  <a href="https://angular.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/> </a>
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
 
