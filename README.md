@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header-pink-mew.svg" alt="MERT: frontend and mobile developer from Turkey" width="100%">
+  <img src="header.svg" alt="MERT: frontend and mobile developer from Turkey" width="100%">
 </p>
 
 <pre>
