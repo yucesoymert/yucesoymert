@@ -7,7 +7,7 @@ yucesoymert@github:~$ whoami
 Mert Yücesoy · frontend &amp; mobile developer · Turkey
 Web at work (React, Next.js, Angular), my own apps after hours (Expo, SwiftUI).
 
-mert@github:~$ ls ~/projects
+yucesoymert@github:~$ ls ~/projects
 <a href="https://github.com/yucesoymert/Morph">morph/</a>          two images → one dynamic macOS wallpaper (.heic)   SwiftUI
 diarywhisper/   diary, mood &amp; breathing app                        Expo · React Native
 pixdaily/       one photo a day → a pixel art calendar             iOS · in planning
@@ -20,14 +20,14 @@ web       React · Next.js · Angular · Tailwind · Sass
 mobile    Expo / React Native · SwiftUI
 backend   Firebase · Sanity
 
-mert@github:~$ history | tail -4
+yucesoymert@github:~$ history | tail -4
 2022  bootcamps → first public repos
 2024  Ithinka · client projects (private, Azure DevOps)
 2025  NoSurrender · web &amp; mobile (private GitHub org)
 2026  shipping my own apps
 
-mert@github:~$ contact --links
+yucesoymert@github:~$ contact --links
 <a href="https://portfolio-v0-indol.vercel.app">portfolio</a> · <a href="https://www.linkedin.com/in/mertyucesoyy/">linkedin</a>
 
-mert@github:~$ █
+yucesoymert@github:~$ █
 </pre>
