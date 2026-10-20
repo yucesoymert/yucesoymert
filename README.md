@@ -27,7 +27,7 @@ mert@github:~$ history | tail -4
 2026  shipping my own apps
 
 mert@github:~$ contact --links
-<a href="https://portfolio-v0-indol.vercel.app">portfolio</a> · <a href="https://www.hackerrank.com/mertyucesoy">hackerrank</a>
+<a href="https://portfolio-v0-indol.vercel.app">portfolio</a> · <a href="https://www.linkedin.com/in/mertyucesoyy/">linkedin</a>
 
 mert@github:~$ █
 </pre>
