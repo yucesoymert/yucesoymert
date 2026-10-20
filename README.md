@@ -3,7 +3,7 @@
 </p>
 
 <pre>
-mert@github:~$ whoami
+yucesoymert@github:~$ whoami
 Mert Yücesoy · frontend &amp; mobile developer · Turkey
 Web at work (React, Next.js, Angular), my own apps after hours (Expo, SwiftUI).
 
