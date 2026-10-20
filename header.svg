@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 260" width="840" height="260" role="img" aria-label="MERT: frontend and mobile developer">
+  <style>
+    text { font-family: "SF Mono", Menlo, Consolas, "DejaVu Sans Mono", monospace; fill: #39ff7a; }
+    .dim { fill: #1f9e4c; }
+    .glow { filter: url(#glow); }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    .screen { animation: flicker 6s infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes flicker { 0%, 96%, 100% { opacity: 1; } 97% { opacity: .82; } 98% { opacity: 1; } 99% { opacity: .9; } }
+    @media (prefers-reduced-motion: reduce) { .cursor, .screen { animation: none; } }
+  </style>
+  <defs>
+    <filter id="glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#000" opacity=".35"/>
+    </pattern>
+    <radialGradient id="vignette" cx="50%" cy="50%" r="75%">
+      <stop offset="60%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity=".75"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="840" height="260" rx="14" fill="#06120a"/>
+  <g class="screen">
+    <text x="28" y="34" font-size="13" class="dim">MERT-OS v2026.10 ── 640K OK ── READY</text>
+    <text x="28" y="72" font-size="19" class="glow" xml:space="preserve">
+      <tspan x="28" dy="0">███╗   ███╗███████╗██████╗ ████████╗</tspan>
+      <tspan x="28" dy="21">████╗ ████║██╔════╝██╔══██╗╚══██╔══╝</tspan>
+      <tspan x="28" dy="21">██╔████╔██║█████╗  ██████╔╝   ██║   </tspan>
+      <tspan x="28" dy="21">██║╚██╔╝██║██╔══╝  ██╔══██╗   ██║   </tspan>
+      <tspan x="28" dy="21">██║ ╚═╝ ██║███████╗██║  ██║   ██║   </tspan>
+      <tspan x="28" dy="21">╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   </tspan>
+    </text>
+    <text x="560" y="78" font-size="15" class="glow" xml:space="preserve">
+      <tspan x="560" dy="0">mert@github</tspan>
+      <tspan x="560" dy="22" class="dim">───────────────</tspan>
+      <tspan x="560" dy="22">os ······ macOS</tspan>
+      <tspan x="560" dy="22">shell ··· zsh</tspan>
+      <tspan x="560" dy="22">lang ···· TS · Swift</tspan>
+      <tspan x="560" dy="22">uptime ·· since 2022</tspan>
+    </text>
+    <text x="28" y="212" font-size="16" class="glow">&gt; frontend &amp; mobile developer · Turkey</text>
+    <text x="28" y="238" font-size="16" class="glow">&gt; react · next.js · expo · swiftui <tspan class="cursor">█</tspan></text>
+  </g>
+  <rect width="840" height="260" rx="14" fill="url(#scan)"/>
+  <rect width="840" height="260" rx="14" fill="url(#vignette)"/>
+</svg>
