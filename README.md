@@ -9,7 +9,7 @@ Web at work (React, Next.js, Angular), my own apps after hours (Expo, SwiftUI).
 
 mert@github:~$ ls ~/projects
 <a href="https://github.com/yucesoymert/Morph">morph/</a>          two images → one dynamic macOS wallpaper (.heic)   SwiftUI
-diarywhisper/   diary, mood &amp; breathing app                       Expo · React Native
+diarywhisper/   diary, mood &amp; breathing app                        Expo · React Native
 pixdaily/       one photo a day → a pixel art calendar             iOS · in planning
 <a href="https://portfolio-v0-indol.vercel.app">portfolio/</a>      my site                                            React
 <a href="https://github.com/yucesoymert/react-pokedex">pokedex/</a>        one of my first React projects, kept with love     React
