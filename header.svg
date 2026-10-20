@@ -26,16 +26,16 @@
   <rect width="840" height="260" rx="14" fill="#06120a"/>
   <g class="screen">
     <text x="28" y="34" font-size="13" class="dim">MERT-OS v2026.10 ── 640K OK ── READY</text>
-    <text x="28" y="72" font-size="19" class="glow" xml:space="preserve">
+    <text x="28" y="72" font-size="16" class="glow" xml:space="preserve">
       <tspan x="28" dy="0">███╗   ███╗███████╗██████╗ ████████╗</tspan>
-      <tspan x="28" dy="21">████╗ ████║██╔════╝██╔══██╗╚══██╔══╝</tspan>
-      <tspan x="28" dy="21">██╔████╔██║█████╗  ██████╔╝   ██║   </tspan>
-      <tspan x="28" dy="21">██║╚██╔╝██║██╔══╝  ██╔══██╗   ██║   </tspan>
-      <tspan x="28" dy="21">██║ ╚═╝ ██║███████╗██║  ██║   ██║   </tspan>
-      <tspan x="28" dy="21">╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   </tspan>
+      <tspan x="28" dy="18">████╗ ████║██╔════╝██╔══██╗╚══██╔══╝</tspan>
+      <tspan x="28" dy="18">██╔████╔██║█████╗  ██████╔╝   ██║   </tspan>
+      <tspan x="28" dy="18">██║╚██╔╝██║██╔══╝  ██╔══██╗   ██║   </tspan>
+      <tspan x="28" dy="18">██║ ╚═╝ ██║███████╗██║  ██║   ██║   </tspan>
+      <tspan x="28" dy="18">╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   </tspan>
     </text>
     <text x="560" y="78" font-size="15" class="glow" xml:space="preserve">
-      <tspan x="560" dy="0">mert@github</tspan>
+      <tspan x="560" dy="0">@yucesoymert</tspan>
       <tspan x="560" dy="22" class="dim">───────────────</tspan>
       <tspan x="560" dy="22">os ······ macOS</tspan>
       <tspan x="560" dy="22">shell ··· zsh</tspan>

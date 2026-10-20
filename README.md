@@ -20,9 +20,10 @@ web       React · Next.js · Angular · Tailwind · Sass
 mobile    Expo / React Native · SwiftUI
 backend   Firebase · Sanity
 
-mert@github:~$ history | tail -3
+mert@github:~$ history | tail -4
 2022  bootcamps → first public repos
 2024  Ithinka · client projects (private, Azure DevOps)
+2025  NoSurrender · web &amp; mobile (private GitHub org)
 2026  shipping my own apps
 
 mert@github:~$ contact --links
